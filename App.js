@@ -3,7 +3,6 @@ import { createNativeStackNavigator } from "@react-navigation/native-stack";
 import OnboardingScreen from "./screens/OnboardingScreen";
 import HomePageScreen from "./screens/HomePageScreen";
 import { useState } from "react";
-import 'expo-dev-client';
 
 const Stack = createNativeStackNavigator();
 
